@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32127.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircusTrein", "CircusTrein\CircusTrein.csproj", "{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircusTrein.Tests", "CircusTrein.Tests\CircusTrein.Tests.csproj", "{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Debug|ARM64.Build.0 = Debug|ARM64
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Release|ARM64.ActiveCfg = Release|ARM64
+		{100FAF3D-0C79-4DE8-91E0-DA047D1ACF67}.Release|ARM64.Build.0 = Release|ARM64
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{234BB2F2-ABAC-4231-9827-6E0DDBE0957C}.Release|ARM64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6571DC10-6D5B-4676-9FC0-A896D408060A}
+	EndGlobalSection
+EndGlobal
